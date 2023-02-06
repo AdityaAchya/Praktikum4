@@ -56,7 +56,8 @@ print(list_gabungan)
 
 3. Maka hasil setelah di run 
 
-    <img width="801" alt="foto 2" src="https://user-images.githubusercontent.com/115473988/202850690-2f94050a-30ce-49b6-bfbb-5b469cee1d98.png">
+    ![Praktikum4 1](https://user-images.githubusercontent.com/123864099/217005734-f7b4073f-fda1-4634-ad9a-eb28c3f69342.PNG)
+
 
 
 # Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut:
@@ -105,7 +106,8 @@ print("==================================================================")
 
 7. maka tampilan program akan seperti berikut
 
-  <img width="837" alt="foto 4" src="https://user-images.githubusercontent.com/115473988/202851374-5d6d9df6-f5f7-49f8-a77f-b6f74d449fbd.png">
+  ![Praktikum4 2](https://user-images.githubusercontent.com/123864099/217005840-6ec4b1df-626d-4f68-ab15-c08b29b6f8ad.PNG)
+
 
 
 ## TERIMA KASIH
